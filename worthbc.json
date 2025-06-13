@@ -1,0 +1,447 @@
+{
+    "providerName": "Worth Baptist Church",
+    "language": "en",
+    "lastUpdated": "2025-06-13T01:44:09Z",
+    "movies": [
+        {
+            "id": "episode-1",
+            "title": "A Survival Guide for the End of the World - Part 2",
+            "content": {
+                "dateAdded": "2025-03-23T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22383385/controller/link/action/podcast/type/video_asurvivalguidefortheendofthewo/id/1443357.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 5060
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/aff11cdd3d656d8638491aa41a4401da.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-23",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Evening, 3/23/2025"
+        },
+        {
+            "id": "episode-2",
+            "title": "A Survival Guide for the End of the World - Part 1",
+            "content": {
+                "dateAdded": "2025-03-23T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22382938/controller/link/action/podcast/type/video_asurvivalguidefortheendofthewo/id/1443082.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 5499
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f7141c4116f961edf94c0ceaec44e223.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-23",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Morning, 03/23/2025"
+        },
+        {
+            "id": "episode-3",
+            "title": "Living Courageously",
+            "content": {
+                "dateAdded": "2025-03-23T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22382512/controller/link/action/podcast/type/video_livingcourageously/id/1442621.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 2984
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/529ab17c7db0d9a07018e532fd174a32.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-23",
+            "shortDescription": "Bro. Jay Richardson: Sanctuary Class, 03/23/2025"
+        },
+        {
+            "id": "episode-4",
+            "title": "Luke: An Introduction to Jesus Christ",
+            "content": {
+                "dateAdded": "2025-03-19T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22381831/controller/link/action/podcast/type/video_lukeanintroductiontoesuschrist/id/1442173.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4743
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/4538800c3c3c2e560a943caf34ecc938.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-19",
+            "shortDescription": "Pastor Tyler Gillit: Wednesday Evening, 3/19/2025"
+        },
+        {
+            "id": "episode-5",
+            "title": "A Spirit-Filled Home",
+            "content": {
+                "dateAdded": "2025-03-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22378675/controller/link/action/podcast/type/video_aspiritfilledhome/id/1440185.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 5406
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/7af2674d2a9fb33a2e09f9c80cc6b06c.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-09",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Evening, 3/9/2025"
+        },
+        {
+            "id": "episode-6",
+            "title": "The Strength to Stand",
+            "content": {
+                "dateAdded": "2025-03-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22378250/controller/link/action/podcast/type/video_thestrengthtostand/id/1439877.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 5269
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/04f954d007a73a8c1b5da40897f3ccbd.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-09",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Morning, 3/9/2025"
+        },
+        {
+            "id": "episode-7",
+            "title": "Courage to Build for the Future",
+            "content": {
+                "dateAdded": "2025-03-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22377785/controller/link/action/podcast/type/video_couragetobuildforthefuture/id/1439442.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 2618
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/fd88b997d88860d6693cbc7604c2d5b5.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-09",
+            "shortDescription": "Dr. W. W. Weaver: Sanctuary Class, 3/9/2025"
+        },
+        {
+            "id": "episode-8",
+            "title": "Raising Memorials",
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375967/controller/link/action/podcast/type/video_raisingmemorials/id/1438316.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 3944
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/5ff47512335ca3a328cca42d284d2664.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-02",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Afternoon, 3/2/2025"
+        },
+        {
+            "id": "episode-9",
+            "title": "Ingredients of a Biblical Dynamic Church",
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375713/controller/link/action/podcast/type/video_ingredientsofabiblicaldynamicc/id/1438136.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4708
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f4e206d826766639e47b308e79274f3a.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-02",
+            "shortDescription": "Dr. W. W. Weaver: Sunday Morning, 3/2/2025"
+        },
+        {
+            "id": "episode-10",
+            "title": "Becoming a Fake",
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375302/controller/link/action/podcast/type/video_becomingafake/id/1437719.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 2727
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0ca3f0bc22da752cfd0bcb3a184ce8a1.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-03-02",
+            "shortDescription": "Evangelist David Corn: Sanctuary Class, 3/2/2025"
+        },
+        {
+            "id": "episode-11",
+            "title": "Mark: Meet the Servant",
+            "content": {
+                "dateAdded": "2025-02-26T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22374442/controller/link/action/podcast/type/video_markmeettheservant/id/1437226.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4524
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f6d938f6711b4797f2144cefce39ad13.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-26",
+            "shortDescription": "Pastor Tyler Gillit: Wednesday Evening, 2/26/2025"
+        },
+        {
+            "id": "episode-12",
+            "title": "Matthew: Meet the King!",
+            "content": {
+                "dateAdded": "2025-02-12T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22369673/controller/link/action/podcast/type/video_matthewmeettheking/id/1434078.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4899
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a1e0826957ee3c8dd644c5a7d5486cd4.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-12",
+            "shortDescription": "Pastor Tyler Gillit: Wednesday Evening, 2/12/2025"
+        },
+        {
+            "id": "episode-13",
+            "title": "In A Cave, and OK",
+            "content": {
+                "dateAdded": "2025-02-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22368968/controller/link/action/podcast/type/video_inacaveandok/id/1433682.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4178
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/41135f6be5aa60e6aaa6a0d49aa77870.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-09",
+            "shortDescription": "Bro. Earl Sides: Sunday Evening, 2/9/2025"
+        },
+        {
+            "id": "episode-14",
+            "title": "Waging Spiritual Warfare Pt. 2",
+            "content": {
+                "dateAdded": "2025-02-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22368517/controller/link/action/podcast/type/video_wagingspiritualwarfarept2/id/1433393.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4867
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/5cf1356eae3f8a2b97b1c36dddc6b930.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-09",
+            "shortDescription": "Pastor Tyler Gillit: Sunday Morning, 2/9/2025"
+        },
+        {
+            "id": "episode-15",
+            "title": "Courage to Pray",
+            "content": {
+                "dateAdded": "2025-02-09T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22368108/controller/link/action/podcast/type/video_couragetopray/id/1432971.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 2161
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/1aeb34bde9f24be67ecaaf4e1d1bd650.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-09",
+            "shortDescription": "Dr. W. W. Weaver: Sanctuary Class, 2/9/2025"
+        },
+        {
+            "id": "episode-16",
+            "title": "Digging Out of An Empty Barrel",
+            "content": {
+                "dateAdded": "2025-02-05T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22367335/controller/link/action/podcast/type/video_diggingoutofanemptybarrel/id/1432492.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4620
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2758419cf359409dd324119c73bc3871.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-05",
+            "shortDescription": "Pastor Scott Cowling: Wednesday Evening, 2/5/2025"
+        },
+        {
+            "id": "episode-17",
+            "title": "The Cost of Discipleship",
+            "content": {
+                "dateAdded": "2025-02-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22366565/controller/link/action/podcast/type/video_thecostofdiscipleship/id/1432149.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4805
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/8aa27b8b4d31f87e0ba49cb007097bea.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-02",
+            "shortDescription": "Bro. Joshua Marquardt: Sunday Evening, 2/2/2025"
+        },
+        {
+            "id": "episode-18",
+            "title": "The Brazen Serpent",
+            "content": {
+                "dateAdded": "2025-02-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22366091/controller/link/action/podcast/type/video_thebrazenserpent/id/1431776.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4351
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/38dc8f417ee52c3cbd3d361f76222b11.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-02",
+            "shortDescription": "Dr. Al Reichman: Sunday Morning, 2/2/2025"
+        },
+        {
+            "id": "episode-19",
+            "title": "Courage to Trust",
+            "content": {
+                "dateAdded": "2025-02-02T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22365697/controller/link/action/podcast/type/video_couragetotrust/id/1431444.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 3253
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/80dc5b90632e7d9fd137f4cd72f438d8.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-02-02",
+            "shortDescription": "Bro. Jay Richardson: Sanctuary Class, 2/2/2025"
+        },
+        {
+            "id": "episode-20",
+            "title": "The Snare of Serving Other gods",
+            "content": {
+                "dateAdded": "2025-01-29T00:00:00Z",
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22364940/controller/link/action/podcast/type/video_thesnareofservingothergods/id/1430944.mp4",
+                        "quality": "HD",
+                        "videoType": "MP4"
+                    }
+                ],
+                "duration": 4865
+            },
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2164ee0b5530ad8a4ac304a5cc717193.png",
+            "genres": [
+                "religion",
+                "christianity"
+            ],
+            "releaseDate": "2025-01-29",
+            "shortDescription": "Bro. Earl Sides: Wednesday Evening, 1/29/2025"
+        }
+    ]
+}
