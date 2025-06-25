@@ -1,2 +1,2 @@
 # wbc-roku-channel
-Worth Baptist Church Roku Channel
+Roku Channel for Worth Baptist Church
