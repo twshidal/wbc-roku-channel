@@ -1,68 +1,35 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-06-25T02:58:35Z",
+    "lastUpdated": "2025-07-07T14:33:41Z",
     "language": "en",
     "movies": [
         {
-            "id": "22383385",
-            "title": "A Survival Guide for the End of the World - Part 2",
+            "id": "22420925",
+            "title": "Wise or Otherwise?",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Evening, 3/23/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: Daniel: Wisdom for Winning in Babylon, A Survival Guide for the End of the World - Part 2, Daniel 12:1-13, Sunday Evening, 3/23/2025",
-            "releaseDate": "2025-03-23",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 7/6/2025",
+            "longDescription": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise?, James 3:13-18, Sunday Morning, 7/6/2025",
+            "releaseDate": "2025-07-06",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/aff11cdd3d656d8638491aa41a4401da.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Evening",
-                "3/23/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-23T00:00:00Z",
-                "duration": 5060,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22383385/controller/link/action/podcast/type/video_asurvivalguidefortheendofthewo/id/1443357.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22382938",
-            "title": "A Survival Guide for the End of the World - Part 1",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 03/23/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: Daniel: Wisdom for Winning in Babylon, A Survival Guide for the End of the World - Part 1, Daniel 12:1-3, Sunday Morning, 03/23/2025",
-            "releaseDate": "2025-03-23",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f7141c4116f961edf94c0ceaec44e223.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/3a5280de2c2eef681b5c80c664a13121.png",
             "tags": [
                 "Pastor Tyler Gillit",
                 "Sunday Morning",
-                "03/23/2025"
+                "7/6/2025"
             ],
             "content": {
-                "dateAdded": "2025-03-23T00:00:00Z",
-                "duration": 5499,
+                "dateAdded": "2025-07-06T00:00:00Z",
+                "duration": 4328,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22382938/controller/link/action/podcast/type/video_asurvivalguidefortheendofthewo/id/1443082.mp4",
+                        "url": "https://worthbc.sermon.net/22420925/controller/link/action/podcast/type/video_wiseorotherwise/id/1466718.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -70,164 +37,32 @@
             }
         },
         {
-            "id": "22382512",
-            "title": "Living Courageously",
-            "cast": [
-                "Bro. Jay Richardson"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Bro. Jay Richardson, Sanctuary Class, 03/23/2025",
-            "longDescription": "Bro. Jay Richardson, Series: Living with Courage, Living Courageously, 2 Timothy 1:6-12, Sanctuary Class, 03/23/2025",
-            "releaseDate": "2025-03-23",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/529ab17c7db0d9a07018e532fd174a32.png",
-            "tags": [
-                "Bro. Jay Richardson",
-                "Sanctuary Class",
-                "03/23/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-23T00:00:00Z",
-                "duration": 2984,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22382512/controller/link/action/podcast/type/video_livingcourageously/id/1442621.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22381831",
-            "title": "Luke: An Introduction to Jesus Christ",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 3/19/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible, Luke: An Introduction to Jesus Christ, Luke 19:10, Wednesday Evening, 3/19/2025",
-            "releaseDate": "2025-03-19",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/4538800c3c3c2e560a943caf34ecc938.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Wednesday Evening",
-                "3/19/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-19T00:00:00Z",
-                "duration": 4743,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22381831/controller/link/action/podcast/type/video_lukeanintroductiontoesuschrist/id/1442173.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22378675",
-            "title": "A Spirit-Filled Home",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Evening, 3/9/2025",
-            "longDescription": "Pastor Tyler Gillit, A Spirit-Filled Home, Ephesians 5:18; 6:1-4, Sunday Evening, 3/9/2025",
-            "releaseDate": "2025-03-09",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/7af2674d2a9fb33a2e09f9c80cc6b06c.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Evening",
-                "3/9/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-09T00:00:00Z",
-                "duration": 5406,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22378675/controller/link/action/podcast/type/video_aspiritfilledhome/id/1440185.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22378250",
-            "title": "The Strength to Stand",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 3/9/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: Daniel: Wisdom for Winning in Babylon, The Strength to Stand, Daniel 11:1-20, Sunday Morning, 3/9/2025",
-            "releaseDate": "2025-03-09",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/04f954d007a73a8c1b5da40897f3ccbd.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Morning",
-                "3/9/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-09T00:00:00Z",
-                "duration": 5269,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22378250/controller/link/action/podcast/type/video_thestrengthtostand/id/1439877.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22377785",
-            "title": "Courage to Build for the Future",
+            "id": "22420567",
+            "title": "Sodom and Gomorrah",
             "cast": [
                 "Dr. W. W. Weaver"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Dr. W. W. Weaver, Sanctuary Class, 3/9/2025",
-            "longDescription": "Dr. W. W. Weaver, Series: Living With Courage, Courage to Build for the Future, 2 Chronicles 24:1-14, Sanctuary Class, 3/9/2025",
-            "releaseDate": "2025-03-09",
+            "shortDescription": "Dr. W. W. Weaver, Sanctuary Class, 7/6/2025",
+            "longDescription": "Dr. W. W. Weaver, Series: Studies in Genesis, Sodom and Gomorrah, Genesis 19:1-30, Sanctuary Class, 7/6/2025",
+            "releaseDate": "2025-07-06",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/fd88b997d88860d6693cbc7604c2d5b5.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/23180a6b9815b1063d801028340df7d0.png",
             "tags": [
                 "Dr. W. W. Weaver",
                 "Sanctuary Class",
-                "3/9/2025"
+                "7/6/2025"
             ],
             "content": {
-                "dateAdded": "2025-03-09T00:00:00Z",
-                "duration": 2618,
+                "dateAdded": "2025-07-06T00:00:00Z",
+                "duration": 2970,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22377785/controller/link/action/podcast/type/video_couragetobuildforthefuture/id/1439442.mp4",
+                        "url": "https://worthbc.sermon.net/22420567/controller/link/action/podcast/type/video_sodomandgomorrah/id/1466407.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -235,32 +70,32 @@
             }
         },
         {
-            "id": "22375967",
-            "title": "Raising Memorials",
+            "id": "22419805",
+            "title": "Stewarding Life's Seasons",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Afternoon, 3/2/2025",
-            "longDescription": "Pastor Tyler Gillit, Raising Memorials, Joshua 4:4-7, Sunday Afternoon, 3/2/2025",
-            "releaseDate": "2025-03-02",
+            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 7/2/2025",
+            "longDescription": "Pastor Tyler Gillit, Stewarding Life's Seasons, Ecclesiastes 3:1-8, Wednesday Evening, 7/2/2025",
+            "releaseDate": "2025-07-02",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/5ff47512335ca3a328cca42d284d2664.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/4965a37f06b120641c98a3c8b58e5d00.png",
             "tags": [
                 "Pastor Tyler Gillit",
-                "Sunday Afternoon",
-                "3/2/2025"
+                "Wednesday Evening",
+                "7/2/2025"
             ],
             "content": {
-                "dateAdded": "2025-03-02T00:00:00Z",
-                "duration": 3944,
+                "dateAdded": "2025-07-02T00:00:00Z",
+                "duration": 4795,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22375967/controller/link/action/podcast/type/video_raisingmemorials/id/1438316.mp4",
+                        "url": "https://worthbc.sermon.net/22419805/controller/link/action/podcast/type/video_stewardinglifesseasons/id/1466003.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -268,65 +103,98 @@
             }
         },
         {
-            "id": "22375713",
-            "title": "Ingredients of a Biblical Dynamic Church",
+            "id": "22419023",
+            "title": "What Christians Can Do For America",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Evening, 6/29/2025",
+            "longDescription": "Pastor Tyler Gillit, What Christians Can Do For America, Proverbs 14:34, Sunday Evening, 6/29/2025",
+            "releaseDate": "2025-06-29",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/6e80d1718ed17c5e573de91ea47ca13f.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "6/29/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-06-29T00:00:00Z",
+                "duration": 3348,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22419023/controller/link/action/podcast/type/video_whatchristianscandoforamerica/id/1465688.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22418681",
+            "title": "The Legacy of a Faithful Man",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 6/29/2025",
+            "longDescription": "Pastor Tyler Gillit, The Legacy of a Faithful Man, Deuteronomy 34:1-12, Sunday Morning, 6/29/2025",
+            "releaseDate": "2025-06-29",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/9fd58bb9257416b91cd1ccab1cd8097a.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "6/29/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-06-29T00:00:00Z",
+                "duration": 5233,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22418681/controller/link/action/podcast/type/video_thelegacyofafaithfulman/id/1465400.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22418262",
+            "title": "Abraham the Man of Faith",
             "cast": [
                 "Dr. W. W. Weaver"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Dr. W. W. Weaver, Sunday Morning, 3/2/2025",
-            "longDescription": "Dr. W. W. Weaver, Ingredients of a Biblical Dynamic Church, Acts 2:46-47, Sunday Morning, 3/2/2025",
-            "releaseDate": "2025-03-02",
+            "shortDescription": "Dr. W. W. Weaver, Sanctuary Class, 6/29/2025",
+            "longDescription": "Dr. W. W. Weaver, Series: Studies in Genesis, Abraham the Man of Faith, Genesis 12:1-5, Sanctuary Class, 6/29/2025",
+            "releaseDate": "2025-06-29",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f4e206d826766639e47b308e79274f3a.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f18725a098af6f639b188101850c07ae.png",
             "tags": [
                 "Dr. W. W. Weaver",
-                "Sunday Morning",
-                "3/2/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-03-02T00:00:00Z",
-                "duration": 4708,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22375713/controller/link/action/podcast/type/video_ingredientsofabiblicaldynamicc/id/1438136.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22375302",
-            "title": "Becoming a Fake",
-            "cast": [
-                "Evangelist David Corn"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Evangelist David Corn, Sanctuary Class, 3/2/2025",
-            "longDescription": "Evangelist David Corn, Becoming a Fake, 1 Samuel 15, Sanctuary Class, 3/2/2025",
-            "releaseDate": "2025-03-02",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0ca3f0bc22da752cfd0bcb3a184ce8a1.png",
-            "tags": [
-                "Evangelist David Corn",
                 "Sanctuary Class",
-                "3/2/2025"
+                "6/29/2025"
             ],
             "content": {
-                "dateAdded": "2025-03-02T00:00:00Z",
-                "duration": 2727,
+                "dateAdded": "2025-06-29T00:00:00Z",
+                "duration": 3032,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22375302/controller/link/action/podcast/type/video_becomingafake/id/1437719.mp4",
+                        "url": "https://worthbc.sermon.net/22418262/controller/link/action/podcast/type/video_abrahamthemanoffaith/id/1465065.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -334,32 +202,32 @@
             }
         },
         {
-            "id": "22374442",
-            "title": "Mark: Meet the Servant",
+            "id": "22417500",
+            "title": "Our Confidence in Crisis",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 2/26/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible,  Mark: Meet the Servant, Mark 1:1, Wednesday Evening, 2/26/2025",
-            "releaseDate": "2025-02-26",
+            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 6/25/2025",
+            "longDescription": "Pastor Tyler Gillit, Our Confidence in Crisis, Philippians 1:19-26, Wednesday Evening, 6/25/2025",
+            "releaseDate": "2025-06-25",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f6d938f6711b4797f2144cefce39ad13.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f6b4d70469cfa9e4977f626873dbe5b9.png",
             "tags": [
                 "Pastor Tyler Gillit",
                 "Wednesday Evening",
-                "2/26/2025"
+                "6/25/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-26T00:00:00Z",
-                "duration": 4524,
+                "dateAdded": "2025-06-25T00:00:00Z",
+                "duration": 4542,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22374442/controller/link/action/podcast/type/video_markmeettheservant/id/1437226.mp4",
+                        "url": "https://worthbc.sermon.net/22417500/controller/link/action/podcast/type/video_ourconfidenceincrisis/id/1464579.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -367,65 +235,32 @@
             }
         },
         {
-            "id": "22369673",
-            "title": "Matthew: Meet the King!",
+            "id": "22416633",
+            "title": "Word Problems",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 2/12/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible, Matthew: Meet the King!, , Wednesday Evening, 2/12/2025",
-            "releaseDate": "2025-02-12",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Evening, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Word Problems, James 3:1-12, Sunday Evening, 6/22/2025",
+            "releaseDate": "2025-06-22",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a1e0826957ee3c8dd644c5a7d5486cd4.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e8db5f5c0cc36a640f75e3eed7288311.png",
             "tags": [
                 "Pastor Tyler Gillit",
-                "Wednesday Evening",
-                "2/12/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-02-12T00:00:00Z",
-                "duration": 4899,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22369673/controller/link/action/podcast/type/video_matthewmeettheking/id/1434078.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22368968",
-            "title": "In A Cave, and OK",
-            "cast": [
-                "Bro. Earl Sides"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Bro. Earl Sides, Sunday Evening, 2/9/2025",
-            "longDescription": "Bro. Earl Sides, In A Cave, and OK, Psalm 4, Sunday Evening, 2/9/2025",
-            "releaseDate": "2025-02-09",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/41135f6be5aa60e6aaa6a0d49aa77870.png",
-            "tags": [
-                "Bro. Earl Sides",
                 "Sunday Evening",
-                "2/9/2025"
+                "6/22/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-09T00:00:00Z",
-                "duration": 4178,
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "duration": 3760,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22368968/controller/link/action/podcast/type/video_inacaveandok/id/1433682.mp4",
+                        "url": "https://worthbc.sermon.net/22416633/controller/link/action/podcast/type/video_wordproblems/id/1464209.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -433,32 +268,32 @@
             }
         },
         {
-            "id": "22368517",
-            "title": "Waging Spiritual Warfare Pt. 2",
+            "id": "22416246",
+            "title": "Faith and Works",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 2/9/2025",
-            "longDescription": "Pastor Tyler Gillit, Series: Daniel: Wisdom for Winning in Babylon, Waging Spiritual Warfare Pt. 2, Daniel 10, Sunday Morning, 2/9/2025",
-            "releaseDate": "2025-02-09",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Faith and Works, James 2:14-26, Sunday Morning, 6/22/2025",
+            "releaseDate": "2025-06-22",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/5cf1356eae3f8a2b97b1c36dddc6b930.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a94fa8a33ce74f1ce87145d003790b17.png",
             "tags": [
                 "Pastor Tyler Gillit",
                 "Sunday Morning",
-                "2/9/2025"
+                "6/22/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-09T00:00:00Z",
-                "duration": 4867,
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "duration": 5521,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22368517/controller/link/action/podcast/type/video_wagingspiritualwarfarept2/id/1433393.mp4",
+                        "url": "https://worthbc.sermon.net/22416246/controller/link/action/podcast/type/video_faithandworks/id/1463989.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -466,32 +301,32 @@
             }
         },
         {
-            "id": "22368108",
-            "title": "Courage to Pray",
+            "id": "22415811",
+            "title": "The Flood",
             "cast": [
                 "Dr. W. W. Weaver"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Dr. W. W. Weaver, Sanctuary Class, 2/9/2025",
-            "longDescription": "Dr. W. W. Weaver, Series: Living With Courage, Courage to Pray, 1 Samuel 1, Sanctuary Class, 2/9/2025",
-            "releaseDate": "2025-02-09",
+            "shortDescription": "Dr. W. W. Weaver, Sanctuary Class, 6/22/2025",
+            "longDescription": "Dr. W. W. Weaver, Series: Studies in Genesis, The Flood, Genesis 6-9, Sanctuary Class, 6/22/2025",
+            "releaseDate": "2025-06-22",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/1aeb34bde9f24be67ecaaf4e1d1bd650.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/371e2dbf16a13b5eb7cc21d680d35939.png",
             "tags": [
                 "Dr. W. W. Weaver",
                 "Sanctuary Class",
-                "2/9/2025"
+                "6/22/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-09T00:00:00Z",
-                "duration": 2161,
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "duration": 3036,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22368108/controller/link/action/podcast/type/video_couragetopray/id/1432971.mp4",
+                        "url": "https://worthbc.sermon.net/22415811/controller/link/action/podcast/type/video_theflood/id/1463544.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -499,32 +334,32 @@
             }
         },
         {
-            "id": "22367335",
-            "title": "Digging Out of An Empty Barrel",
+            "id": "22414907",
+            "title": "Ephesians: Spread the Wealth",
             "cast": [
-                "Pastor Scott Cowling"
+                "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Pastor Scott Cowling, Wednesday Evening, 2/5/2025",
-            "longDescription": "Pastor Scott Cowling, Digging Out of An Empty Barrel, 1 Kings 17:8-22, Wednesday Evening, 2/5/2025",
-            "releaseDate": "2025-02-05",
+            "shortDescription": "Pastor Tyler Gillit, Wednesday Evening, 6/18/2025",
+            "longDescription": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible,  Ephesians: Spread the Wealth, Ephesians 1:3, Wednesday Evening, 6/18/2025",
+            "releaseDate": "2025-06-18",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2758419cf359409dd324119c73bc3871.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/6339d64a94c8a6048673577b3a4b2c31.png",
             "tags": [
-                "Pastor Scott Cowling",
+                "Pastor Tyler Gillit",
                 "Wednesday Evening",
-                "2/5/2025"
+                "6/18/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-05T00:00:00Z",
-                "duration": 4620,
+                "dateAdded": "2025-06-18T00:00:00Z",
+                "duration": 4713,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22367335/controller/link/action/podcast/type/video_diggingoutofanemptybarrel/id/1432492.mp4",
+                        "url": "https://worthbc.sermon.net/22414907/controller/link/action/podcast/type/video_ephesiansspreadthewealth/id/1462985.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -532,32 +367,32 @@
             }
         },
         {
-            "id": "22366565",
-            "title": "The Cost of Discipleship",
+            "id": "22412782",
+            "title": "The Curious Case of the Snobby Usher",
             "cast": [
-                "Bro. Joshua Marquardt"
+                "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Bro. Joshua Marquardt, Sunday Evening, 2/2/2025",
-            "longDescription": "Bro. Joshua Marquardt, The Cost of Discipleship, Luke 14:25-35, Sunday Evening, 2/2/2025",
-            "releaseDate": "2025-02-02",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Evening, 6/15/2025",
+            "longDescription": "Pastor Tyler Gillit, Series: James: Genuine Christianity, The Curious Case of the Snobby Usher, James 2:1-13, Sunday Evening, 6/15/2025",
+            "releaseDate": "2025-06-15",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/8aa27b8b4d31f87e0ba49cb007097bea.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e6243d3857f022700c85c0b229ff44f9.png",
             "tags": [
-                "Bro. Joshua Marquardt",
+                "Pastor Tyler Gillit",
                 "Sunday Evening",
-                "2/2/2025"
+                "6/15/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-02T00:00:00Z",
-                "duration": 4805,
+                "dateAdded": "2025-06-15T00:00:00Z",
+                "duration": 5054,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22366565/controller/link/action/podcast/type/video_thecostofdiscipleship/id/1432149.mp4",
+                        "url": "https://worthbc.sermon.net/22412782/controller/link/action/podcast/type/video_thecuriouscaseofthesnobbyusher/id/1462105.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -565,98 +400,32 @@
             }
         },
         {
-            "id": "22366091",
-            "title": "The Brazen Serpent",
+            "id": "22412437",
+            "title": "Christlike in Crete",
             "cast": [
-                "Dr. Al Reichman"
+                "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Dr. Al Reichman, Sunday Morning, 2/2/2025",
-            "longDescription": "Dr. Al Reichman, The Brazen Serpent, Numbers 21:4-9, Sunday Morning, 2/2/2025",
-            "releaseDate": "2025-02-02",
+            "shortDescription": "Pastor Tyler Gillit, Sunday Morning, 6/15/2025",
+            "longDescription": "Pastor Tyler Gillit, Christlike in Crete, Titus 2:1-2, 6-8, Sunday Morning, 6/15/2025",
+            "releaseDate": "2025-06-15",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/38dc8f417ee52c3cbd3d361f76222b11.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/9f88980581b5b513e294b711842dc805.png",
             "tags": [
-                "Dr. Al Reichman",
+                "Pastor Tyler Gillit",
                 "Sunday Morning",
-                "2/2/2025"
+                "6/15/2025"
             ],
             "content": {
-                "dateAdded": "2025-02-02T00:00:00Z",
-                "duration": 4351,
+                "dateAdded": "2025-06-15T00:00:00Z",
+                "duration": 5509,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22366091/controller/link/action/podcast/type/video_thebrazenserpent/id/1431776.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22365697",
-            "title": "Courage to Trust",
-            "cast": [
-                "Bro. Jay Richardson"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Bro. Jay Richardson, Sanctuary Class, 2/2/2025",
-            "longDescription": "Bro. Jay Richardson, Series: Living With Courage, Courage to Trust, Judges 6:1-13, Sanctuary Class, 2/2/2025",
-            "releaseDate": "2025-02-02",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/80dc5b90632e7d9fd137f4cd72f438d8.png",
-            "tags": [
-                "Bro. Jay Richardson",
-                "Sanctuary Class",
-                "2/2/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-02-02T00:00:00Z",
-                "duration": 3253,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22365697/controller/link/action/podcast/type/video_couragetotrust/id/1431444.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22364940",
-            "title": "The Snare of Serving Other gods",
-            "cast": [
-                "Bro. Earl Sides"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Bro. Earl Sides, Wednesday Evening, 1/29/2025",
-            "longDescription": "Bro. Earl Sides, The Snare of Serving Other gods, 2 Timothy 2, Wednesday Evening, 1/29/2025",
-            "releaseDate": "2025-01-29",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2164ee0b5530ad8a4ac304a5cc717193.png",
-            "tags": [
-                "Bro. Earl Sides",
-                "Wednesday Evening",
-                "1/29/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-01-29T00:00:00Z",
-                "duration": 4865,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22364940/controller/link/action/podcast/type/video_thesnareofservingothergods/id/1430944.mp4",
+                        "url": "https://worthbc.sermon.net/22412437/controller/link/action/podcast/type/video_christlikeincrete/id/1461815.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
