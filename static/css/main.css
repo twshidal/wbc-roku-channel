@@ -1,0 +1,63 @@
+/* Reset some default browser styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Darker text color */
+    padding: 20px;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 1rem; /* Standard font size */
+    line-height: 1.8; /* Provides comfortable spacing between lines */
+    margin-bottom: 1em; /* Space between paragraphs */
+    color: #444; /* Slightly lighter than the main body color for readability */
+    max-width: 700px; /* Limits paragraph width for readability */
+}
+
+/* CSS for button-like link */
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.button-link:hover {
+    background-color: #0056b3;
+}
+
+/* Table styles */
+table {
+    border-collapse: collapse; /* Ensures borders are not doubled */
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px; /* Adds space within cells */
+    border: 1px solid #ddd; /* Light border for cells */
+    text-align: left; /* Left-aligns cell content */
+}
+
+/* Table header styles */
+th {
+    background-color: #f0f0f0; /* Light background color for header */
+    font-weight: bold;
+    color: #333; /* Text color in header */
+}
+
+/* Alternating row color */
+tr:nth-child(even) {
+    background-color: #fafafa; /* Light gray for alternate rows */
+}

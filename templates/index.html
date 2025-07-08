@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>{{ data.channel_info.title }}</title>
+{% endblock %}
+
+{% block body %}
+    <header>
+        <h1>{{ data.channel_info.title }}</h1>
+        <p>{{ data.channel_info.description }}</p>
+        <p><a href="{{ data.channel_info.link }}" target="_blank" class="button-link">Visit Channel</a></p>
+
+        <!-- Form for refreshing feed, opening in a new window -->
+        <form id="refreshFeedForm" action="{{ url_for('run_script') }}" method="get" target="_blank">
+            <button type="submit" class="button-link">Refresh Feed</button>
+        </form>
+    </header>
+
+    <main>
+        <table>
+            <tbody>
+                {% for item in data['items'] %}
+                    <tr>
+                        <td>
+                            <div><img src="{{ item.Poster }}" alt="{{ item.Title }}" style="width:300px;"></div>
+                            <div><a href="{{ item.Url }}" target="_blank">Watch Video</a></div>
+                        </td>
+                        <td>
+                            <div>Episode ID: {{ item.Comment }}</div>
+                            <div>{{ item.Title }}</div>
+                            <div>{{ item.Description }}</div>
+                            <div>ShortDescriptionLine1: {{ item.ShortDescriptionLine1 }}</div>
+                            <div>ShortDescriptionLine2: {{ item.ShortDescriptionLine2 }}</div>
+                            <div>ReleaseDate: {{ item.ReleaseDate }}</div>
+                            <div>Rating: {{ item.Rating }}</div>
+                            <div>Actors: {{ item.Actors }}</div>
+                            <div>Director: {{ item.Director }}</div>
+                            <div>Categories: {{ item.Categories }}</div>
+                            <div>Artist: {{ item.Artist }}</div>
+                        </td>
+                        <td>
+                            <div>Playlist ID: {{ item.ID }}</div>
+                            <div>Stream Format: {{ item.StreamFormat }}</div>
+                            <div>Audio Format: {{ item.AudioFormat }}</div>
+                            <div>High Definition: {{ item.HDBranded }}</div>
+                            <div>PlayStart: {{ item.PlayStart }}</div>
+                            <div>Length: {{ item.Length }}</div>
+                            <div>Poster Style: {{ item.PosterStyle }}</div>
+                            <div>Ads Enabled: {{ item.AdsEnabled }}</div>
+                            <div>Do Not Display: {{ item.DoNotDisplay }}</div>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+{% endblock %}

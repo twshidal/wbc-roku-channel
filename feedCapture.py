@@ -1,4 +1,5 @@
 import feedparser
+
 import json
 from datetime import datetime, timezone
 
@@ -120,7 +121,6 @@ def main():
             }
             json_data.append(feed_item)
 
-
     # Sort the data
     json_data.sort(key=lambda x: x['releaseDate'], reverse=True)
 
@@ -129,6 +129,7 @@ def main():
         "providerName": DIRECTOR,
         "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "language": "en",
+        "channel_info": json_header,
         "movies": json_data
     }
 
