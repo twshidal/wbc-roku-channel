@@ -75,7 +75,7 @@ def main():
                 pass
 
             # Prepare short description
-            short_description = f"{speaker_name}, {service_event}, {service_date}"
+            short_description = f"{service_event}, {service_date}"
 
             # Format the release date
             try:
@@ -99,11 +99,12 @@ def main():
             feed_item = {
                 'id': str(episode),
                 'title': entry.title,
+                'description': description,
                 'cast': [speaker_name] if speaker_name else [],
                 'rating': RATING,
                 'director': DIRECTOR,
                 'shortDescription': short_description,
-                'longDescription': description,
+                'longDescription': speaker_name,
                 'releaseDate': release_date,
                 'genres': GENRES.split(', '),
                 "thumbnail": poster_url,
