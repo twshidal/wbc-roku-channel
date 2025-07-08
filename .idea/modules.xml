@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wbc-roku-channel.iml" filepath="$PROJECT_DIR$/.idea/wbc-roku-channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/roku-channel.iml" filepath="$PROJECT_DIR$/.idea/roku-channel.iml" />
     </modules>
   </component>
 </project>
