@@ -5,7 +5,7 @@ import os
 # File paths
 TEMPLATE_DIR = "templates"
 OUTPUT_DIR = "docs"  # Changed from static_site to docs
-JSON_FILE = "WorthBC.json"
+JSON_FILE = "docs/WorthBC.json"
 
 # Ensure output folder exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)

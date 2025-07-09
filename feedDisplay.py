@@ -6,7 +6,7 @@ import json
 import os
 
 # Constants
-JSON_FILE = "WorthBC.json"
+JSON_FILE = "docs/WorthBC.json"
 FEED_CAPTURE_SCRIPT = "feedCapture.py"
 
 app = Flask(__name__)

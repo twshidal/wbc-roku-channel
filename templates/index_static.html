@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>{{ data.channel_info.title }} - Worth Baptist Church</title>
+    <title>{{ data.channel_info.title }}</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -61,16 +61,9 @@
             color: #004080;
         }
         .movie-cast {
-            flex-grow: 1;
             font-size: 1rem;
             color: #333;
-            margin-bottom: 15px;
-        }
-        .movie-director {
-            flex-grow: 1;
-            font-size: 1rem;
-            color: #333;
-            margin-bottom: 15px;
+            margin-bottom: 2px;
         }
         .movie-description {
             flex-grow: 1;
@@ -118,10 +111,9 @@
             <div class="movie-content">
                 <h2 class="movie-title">{{ movie.title }}</h2>
                 <div class="movie-cast">Speaker: {{ movie.cast[0] }}</div>
-                <div class="movie-director">Director: {{ movie.director }}</div>
                 <div class="movie-description">{{ movie.shortDescription }}</div>
                 <div class="movie-meta">
-                    Rating: {{ movie.rating }} | Release: {{ movie.releaseDate }} | Genres: {{ movie.genres | join(', ') }}
+                    Director: {{movie.director }} | Rating: {{ movie.rating }} | Release: {{ movie.releaseDate }} | Genres: {{ movie.genres | join(', ') }}
                 </div>
                 {% if movie.content.videos and movie.content.videos[0].url %}
                     <a class="watch-button" href="{{ movie.content.videos[0].url }}" target="_blank" rel="noopener">
