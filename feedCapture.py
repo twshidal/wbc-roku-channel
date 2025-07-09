@@ -13,7 +13,7 @@ GENRES = 'Religion, Christianity'
 RATING = 'NR'
 QUALITY = 'HD'
 VIDEO_TYPE = "mp4"
-JSON_FILE = "WorthBC.json"
+JSON_FILE = "docs/WorthBC.json"
 DEFAULT_POSTER_URL = "https://media.worthbc.org/images/media/roku/channel-poster_hd_290x218px.png"
 
 # Parse date time function
