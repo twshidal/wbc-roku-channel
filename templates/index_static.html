@@ -101,7 +101,6 @@
     <header>
         <h1>{{ data.channel_info.title }}</h1>
         <p>{{ data.channel_info.description }}</p>
-        <small>Last Updated: {{ data.lastUpdated }}</small>
     </header>
 
     <main class="movies-container">
@@ -110,10 +109,10 @@
             <img class="movie-thumb" src="{{ movie.thumbnail }}" alt="Thumbnail for {{ movie.title }}">
             <div class="movie-content">
                 <h2 class="movie-title">{{ movie.title }}</h2>
-                <div class="movie-cast">Speaker: {{ movie.cast[0] }}</div>
-                <div class="movie-description">{{ movie.shortDescription }}</div>
+                <div class="movie-description">{{ movie.description }}</div>
+                <div class="movie-meta">Episode: {{ movie.id }}</div>
                 <div class="movie-meta">
-                    Director: {{movie.director }} | Rating: {{ movie.rating }} | Release: {{ movie.releaseDate }} | Genres: {{ movie.genres | join(', ') }}
+                    Release: {{ movie.releaseDate }} | Rating: {{ movie.rating }} | Cast: {{movie.cast[0] }} | Director: {{movie.director }} | Genres: {{ movie.genres | join(', ') }} | Tags: {{ movie.tags | join(', ') }}
                 </div>
                 {% if movie.content.videos and movie.content.videos[0].url %}
                     <a class="watch-button" href="{{ movie.content.videos[0].url }}" target="_blank" rel="noopener">
