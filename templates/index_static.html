@@ -95,12 +95,27 @@
             font-size: 0.9rem;
             color: #aaa;
         }
+        .button-link {
+            display: inline-block;
+            margin-top: 10px;
+            background-color: #6c757d;
+            color: white;
+            padding: 8px 14px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+        .button-link:hover {
+            background-color: #5a6268;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>{{ data.channel_info.title }}</h1>
         <p>{{ data.channel_info.description }}</p>
+        <p><a href="WorthBC.json" target="_blank" class="button-link">📄 View JSON File</a></p>
     </header>
 
     <main class="movies-container">

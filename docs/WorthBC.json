@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-10T16:49:01Z",
+    "lastUpdated": "2025-07-15T01:30:44Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,108 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22423606",
+            "title": "I Am Not Ashamed",
+            "description": "Bro. Tony Sengmany, I Am Not Ashamed, Romans 1:16, Sunday Evening, 7/13/2025",
+            "cast": [
+                "Bro. Tony Sengmany"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 7/13/2025",
+            "longDescription": "Bro. Tony Sengmany",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/408781eb27cddef2607196b2d1650a55.png",
+            "tags": [
+                "Bro. Tony Sengmany",
+                "Sunday Evening",
+                "7/13/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "duration": 4280,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22423606/controller/link/action/podcast/type/video_iamnotashamed/id/1468526.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22423145",
+            "title": "Wise or Otherwise, Part 2",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 2, James 3:13-18, Sunday Morning, 7/13/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/13/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/961c3ed718fd9c09836106322067f586.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/13/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "duration": 4254,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22423145/controller/link/action/podcast/type/video_wiseorotherwisepart2/id/1468167.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22422790",
+            "title": "Isaac, The Promised Son",
+            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Isaac the Promised Son, Genesis 22, Sanctuary Class, 7/13/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/13/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/c2daddf268ed43d85a2d7ac1e1ddde2d.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/13/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "duration": 3031,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22422790/controller/link/action/podcast/type/video_isaacthepromisedson/id/1467846.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22421373",
             "title": "How To Walk Through A Dark Valley",
@@ -44,8 +146,8 @@
         },
         {
             "id": "22420925",
-            "title": "Wise or Otherwise?",
-            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise?, James 3:13-18, Sunday Morning, 7/6/2025",
+            "title": "Wise or Otherwise, Part 1",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 1, James 3:13-18, Sunday Morning, 7/6/2025",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
@@ -69,7 +171,7 @@
                 "duration": 4328,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22420925/controller/link/action/podcast/type/video_wiseorotherwise/id/1466718.mp4",
+                        "url": "https://worthbc.sermon.net/22420925/controller/link/action/podcast/type/video_wiseorotherwisepart1/id/1466718.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -179,101 +281,135 @@
             }
         },
         {
-            "id": "22414907",
-            "title": "Ephesians: Spread the Wealth",
-            "description": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible,  Ephesians: Spread the Wealth, Ephesians 1:3, Wednesday Evening, 6/18/2025",
+            "id": "22418681",
+            "title": "The Legacy of a Faithful Man",
+            "description": "Pastor Tyler Gillit, The Legacy of a Faithful Man, Deuteronomy 34:1-12, Sunday Morning, 6/29/2025",
             "cast": [
                 "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Wednesday Evening, 6/18/2025",
+            "shortDescription": "Sunday Morning, 6/29/2025",
             "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-18",
+            "releaseDate": "2025-06-29",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/6339d64a94c8a6048673577b3a4b2c31.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Wednesday Evening",
-                "6/18/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-06-18T00:00:00Z",
-                "duration": 4713,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22414907/controller/link/action/podcast/type/video_ephesiansspreadthewealth/id/1462985.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22412782",
-            "title": "The Curious Case of the Snobby Usher",
-            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, The Curious Case of the Snobby Usher, James 2:1-13, Sunday Evening, 6/15/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 6/15/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-15",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e6243d3857f022700c85c0b229ff44f9.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Evening",
-                "6/15/2025"
-            ],
-            "content": {
-                "dateAdded": "2025-06-15T00:00:00Z",
-                "duration": 5054,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22412782/controller/link/action/podcast/type/video_thecuriouscaseofthesnobbyusher/id/1462105.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22412437",
-            "title": "Christlike in Crete",
-            "description": "Pastor Tyler Gillit, Christlike in Crete, Titus 2:1-2, 6-8, Sunday Morning, 6/15/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Morning, 6/15/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-15",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/9f88980581b5b513e294b711842dc805.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/9fd58bb9257416b91cd1ccab1cd8097a.png",
             "tags": [
                 "Pastor Tyler Gillit",
                 "Sunday Morning",
-                "6/15/2025"
+                "6/29/2025"
             ],
             "content": {
-                "dateAdded": "2025-06-15T00:00:00Z",
-                "duration": 5509,
+                "dateAdded": "2025-06-29T00:00:00Z",
+                "duration": 5233,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22412437/controller/link/action/podcast/type/video_christlikeincrete/id/1461815.mp4",
+                        "url": "https://worthbc.sermon.net/22418681/controller/link/action/podcast/type/video_thelegacyofafaithfulman/id/1465400.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22417500",
+            "title": "Our Confidence in Crisis",
+            "description": "Pastor Tyler Gillit, Our Confidence in Crisis, Philippians 1:19-26, Wednesday Evening, 6/25/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 6/25/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-25",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f6b4d70469cfa9e4977f626873dbe5b9.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Wednesday Evening",
+                "6/25/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-06-25T00:00:00Z",
+                "duration": 4542,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22417500/controller/link/action/podcast/type/video_ourconfidenceincrisis/id/1464579.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22416633",
+            "title": "Word Problems",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Word Problems, James 3:1-12, Sunday Evening, 6/22/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-22",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e8db5f5c0cc36a640f75e3eed7288311.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "6/22/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "duration": 3760,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22416633/controller/link/action/podcast/type/video_wordproblems/id/1464209.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22416246",
+            "title": "Faith and Works",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Faith and Works, James 2:14-26, Sunday Morning, 6/22/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-22",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a94fa8a33ce74f1ce87145d003790b17.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "6/22/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "duration": 5521,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22416246/controller/link/action/podcast/type/video_faithandworks/id/1463989.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -308,6 +444,40 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22375967/controller/link/action/podcast/type/video_raisingmemorials/id/1438316.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22375713",
+            "title": "Ingredients of a Biblical Dynamic Church",
+            "description": "Dr. W. W. Weaver, Ingredients of a Biblical Dynamic Church, Acts 2:46-47, Sunday Morning, 3/2/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 3/2/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-03-02",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f4e206d826766639e47b308e79274f3a.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sunday Morning",
+                "3/2/2025"
+            ],
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "duration": 4708,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375713/controller/link/action/podcast/type/video_ingredientsofabiblicaldynamicc/id/1438136.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
