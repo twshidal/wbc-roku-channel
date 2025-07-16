@@ -102,6 +102,7 @@
     <p>{{ data.channel_info.description }}</p>
     <p>
       <a href="WorthBC.json" class="watch-button" target="_blank">View JSON Feed</a> |
+      <a href="https://worthbc.sermon.net/rss/tv/video" class="watch-button" target="_blank">View RSS Feed</a> |
       <a href="https://my.roku.com/account/add?channel=6LZRC2V" class="watch-button" target="_blank">Subscribe on Roku</a>
     </p>
   </header>
@@ -126,6 +127,10 @@
               <h3 class="movie-title">{{ movie.title }}</h3>
               <div class="movie-description">{{ movie.description }}</div>
               <div class="movie-meta">Episode: {{ movie.id }}</div>
+              <div class="movie-meta">
+                PlayStart: {{ movie.content.playStart }} |
+                Duration: {{ movie.content.duration }}
+              </div>
               <div class="movie-meta">
                 Release: {{ movie.releaseDate }} |
                 Rating: {{ movie.rating }} |
