@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-16T21:02:45Z",
+    "lastUpdated": "2025-07-17T15:09:36Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22424251",
+            "title": "Captivated by Christ",
+            "description": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible, Philippians: Captivated by Christ, Philippians 1:1-6, Wednesday Evening, 7/16/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 7/16/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-16",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/7d315fcd87921509d6f845063ae0c3aa.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Wednesday Evening",
+                "7/16/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-07-16T00:00:00Z",
+                "playStart": 748,
+                "duration": 3762,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22424251/controller/link/action/podcast/type/video_captivatedbychrist/id/1468809.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22423606",
             "title": "I Am Not Ashamed",
