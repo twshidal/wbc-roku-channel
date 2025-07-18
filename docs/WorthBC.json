@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-17T15:09:36Z",
+    "lastUpdated": "2025-07-18T15:47:59Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -34,7 +34,7 @@
             "content": {
                 "dateAdded": "2025-07-16T00:00:00Z",
                 "playStart": 748,
-                "duration": 3762,
+                "duration": 4510,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22424251/controller/link/action/podcast/type/video_captivatedbychrist/id/1468809.mp4",
@@ -70,7 +70,7 @@
             "content": {
                 "dateAdded": "2025-07-13T00:00:00Z",
                 "playStart": 446,
-                "duration": 3834,
+                "duration": 4280,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22423606/controller/link/action/podcast/type/video_iamnotashamed/id/1468526.mp4",
@@ -106,7 +106,7 @@
             "content": {
                 "dateAdded": "2025-07-13T00:00:00Z",
                 "playStart": 663,
-                "duration": 3591,
+                "duration": 4254,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22423145/controller/link/action/podcast/type/video_wiseorotherwisepart2/id/1468167.mp4",
@@ -142,7 +142,7 @@
             "content": {
                 "dateAdded": "2025-07-13T00:00:00Z",
                 "playStart": 290,
-                "duration": 2741,
+                "duration": 3031,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22422790/controller/link/action/podcast/type/video_isaacthepromisedson/id/1467846.mp4",

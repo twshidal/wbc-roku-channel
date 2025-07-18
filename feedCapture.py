@@ -103,7 +103,6 @@ def main():
             custom_series, playStart_str = extract_keyword_values(entry)
             playStart_str = str(playStart_str)
             playStart = parse_duration(playStart_str)
-            duration = duration - playStart
 
             feed_item = {
                 'id': str(episode),
