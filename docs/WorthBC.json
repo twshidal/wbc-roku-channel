@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-21T14:37:59Z",
+    "lastUpdated": "2025-07-21T14:40:05Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -261,42 +261,6 @@
             }
         },
         {
-            "id": "22421373",
-            "title": "How To Walk Through A Dark Valley",
-            "description": "Dr. Bill Patterson, How To Walk Through A Dark Valley, Psalm 23:4, Sunday Evening, 7/6/2025",
-            "cast": [
-                "Dr. Bill Patterson"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 7/6/2025",
-            "longDescription": "Dr. Bill Patterson",
-            "releaseDate": "2025-07-06",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/fd2739c4f10b7d6937b48a139856bac5.png",
-            "tags": [
-                "Dr. Bill Patterson",
-                "Sunday Evening",
-                "7/6/2025"
-            ],
-            "customSeries": "Sunday Evening",
-            "content": {
-                "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 904,
-                "duration": 4714,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22421373/controller/link/action/podcast/type/video_howtowalkthroughadarkvalley/id/1467077.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
             "id": "22420925",
             "title": "Wise or Otherwise, Part 1",
             "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 1, James 3:13-18, Sunday Morning, 7/6/2025",
@@ -434,42 +398,6 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22419023/controller/link/action/podcast/type/video_whatchristianscandoforamerica/id/1465688.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22418681",
-            "title": "The Legacy of a Faithful Man",
-            "description": "Pastor Tyler Gillit, The Legacy of a Faithful Man, Deuteronomy 34:1-12, Sunday Morning, 6/29/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Morning, 6/29/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-29",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/9fd58bb9257416b91cd1ccab1cd8097a.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Morning",
-                "6/29/2025"
-            ],
-            "customSeries": "Sunday Morning",
-            "content": {
-                "dateAdded": "2025-06-29T00:00:00Z",
-                "playStart": 750,
-                "duration": 5233,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22418681/controller/link/action/podcast/type/video_thelegacyofafaithfulman/id/1465400.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
