@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-18T15:47:59Z",
+    "lastUpdated": "2025-07-21T14:37:59Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,114 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22425671",
+            "title": "The Way Back to God",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, The Way Back to God, James 4:7-10, Sunday Evening, 7/20/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 7/20/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e3598fcbcb22cf935734813263de341c.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "7/20/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 620,
+                "duration": 4918,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425671/controller/link/action/podcast/type/video_thewaybacktogod/id/1469759.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22425616",
+            "title": "Counseling Mr. Backslider",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Counseling Mr. Backslider,  James 4:1-6, Sunday Morning, 7/20/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/20/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/ecfe29feae7ad674b908b3613960d79d.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/20/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 605,
+                "duration": 4888,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425616/controller/link/action/podcast/type/video_counselingmrbackslider/id/1469749.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22425109",
+            "title": "Jacob's Dream",
+            "description": "Dr. W. W. Weaver, Series: Genesis, Jacob's Dream, Genesis 28:10-22, Sanctuary Class, 7/20/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/20/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/52f661c55b1839b9788365fe9503e710.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/20/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 242,
+                "duration": 3123,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425109/controller/link/action/podcast/type/video_acobsdream/id/1469349.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22424251",
             "title": "Captivated by Christ",
@@ -177,7 +285,7 @@
             "customSeries": "Sunday Evening",
             "content": {
                 "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 0,
+                "playStart": 904,
                 "duration": 4714,
                 "videos": [
                     {
@@ -213,7 +321,7 @@
             "customSeries": "Sunday Morning",
             "content": {
                 "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 0,
+                "playStart": 503,
                 "duration": 4328,
                 "videos": [
                     {
@@ -249,7 +357,7 @@
             "customSeries": "Sanctuary Class",
             "content": {
                 "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 0,
+                "playStart": 210,
                 "duration": 2970,
                 "videos": [
                     {
@@ -285,7 +393,7 @@
             "customSeries": "Wednesday Evening",
             "content": {
                 "dateAdded": "2025-07-02T00:00:00Z",
-                "playStart": 0,
+                "playStart": 755,
                 "duration": 4795,
                 "videos": [
                     {
@@ -321,7 +429,7 @@
             "customSeries": "Sunday Evening",
             "content": {
                 "dateAdded": "2025-06-29T00:00:00Z",
-                "playStart": 0,
+                "playStart": 933,
                 "duration": 3348,
                 "videos": [
                     {
@@ -357,7 +465,7 @@
             "customSeries": "Sunday Morning",
             "content": {
                 "dateAdded": "2025-06-29T00:00:00Z",
-                "playStart": 0,
+                "playStart": 750,
                 "duration": 5233,
                 "videos": [
                     {
@@ -393,7 +501,7 @@
             "customSeries": "Wednesday Evening",
             "content": {
                 "dateAdded": "2025-06-25T00:00:00Z",
-                "playStart": 0,
+                "playStart": 255,
                 "duration": 4542,
                 "videos": [
                     {
@@ -429,7 +537,7 @@
             "customSeries": "Sunday Evening",
             "content": {
                 "dateAdded": "2025-06-22T00:00:00Z",
-                "playStart": 0,
+                "playStart": 485,
                 "duration": 3760,
                 "videos": [
                     {
@@ -465,7 +573,7 @@
             "customSeries": "Sunday Morning",
             "content": {
                 "dateAdded": "2025-06-22T00:00:00Z",
-                "playStart": 0,
+                "playStart": 780,
                 "duration": 5521,
                 "videos": [
                     {
