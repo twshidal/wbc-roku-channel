@@ -1,0 +1,48 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "21874379",
+            "title": "Suffer The Little Children To Come Unto Me",
+            "description": "Dr. Mike Patterson, Suffer The Little Children To Come Unto Me, Mark 10:13-16, Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "cast": [
+                "Dr. Mike Patterson"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "longDescription": "Dr. Mike Patterson",
+            "releaseDate": "2021\n \nKnowing God: https:-10-10",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/29ed0a7e1e099ec563d49d08272e6012.png",
+            "tags": [
+                "Dr. Mike Patterson",
+                "Sunday Evening",
+                "10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org"
+            ],
+            "customSeries": "Legacy",
+            "content": {
+                "dateAdded": "2021\n \nKnowing God: https:-10-10T00:00:00Z",
+                "playStart": 765,
+                "duration": 5380,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/21874379/controller/link/action/podcast/type/video_sufferthelittlechildrentocomeu/id/1122255.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

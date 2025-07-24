@@ -1,0 +1,156 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22425616",
+            "title": "Counseling Mr. Backslider",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Counseling Mr. Backslider,  James 4:1-6, Sunday Morning, 7/20/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/20/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/ecfe29feae7ad674b908b3613960d79d.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/20/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 605,
+                "duration": 4888,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425616/controller/link/action/podcast/type/video_counselingmrbackslider/id/1469749.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22423145",
+            "title": "Wise or Otherwise, Part 2",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 2, James 3:13-18, Sunday Morning, 7/13/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/13/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/961c3ed718fd9c09836106322067f586.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/13/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "playStart": 663,
+                "duration": 4254,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22423145/controller/link/action/podcast/type/video_wiseorotherwisepart2/id/1468167.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22420925",
+            "title": "Wise or Otherwise, Part 1",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 1, James 3:13-18, Sunday Morning, 7/6/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/6/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-06",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/3a5280de2c2eef681b5c80c664a13121.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/6/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-07-06T00:00:00Z",
+                "playStart": 503,
+                "duration": 4328,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22420925/controller/link/action/podcast/type/video_wiseorotherwisepart1/id/1466718.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22416246",
+            "title": "Faith and Works",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Faith and Works, James 2:14-26, Sunday Morning, 6/22/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-22",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a94fa8a33ce74f1ce87145d003790b17.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "6/22/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "playStart": 780,
+                "duration": 5521,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22416246/controller/link/action/podcast/type/video_faithandworks/id/1463989.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

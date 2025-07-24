@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-21T14:40:05Z",
+    "lastUpdated": "2025-07-24T15:22:57Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22426647",
+            "title": "A Man and Woman After God\u2019s Own Heart",
+            "description": "Bro. Earl Sides, A Man and Woman After God's Own Heart, Acts 13:16-23, Wednesday Evening, 7/23/2025",
+            "cast": [
+                "Bro. Earl Sides"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 7/23/2025",
+            "longDescription": "Bro. Earl Sides",
+            "releaseDate": "2025-07-23",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0dd32d6c523cfa790473fdee6fa5537e.png",
+            "tags": [
+                "Bro. Earl Sides",
+                "Wednesday Evening",
+                "7/23/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-07-23T00:00:00Z",
+                "playStart": 830,
+                "duration": 4220,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22426647/controller/link/action/podcast/type/video_amanandwomanaftergodsownheart/id/1470375.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22425671",
             "title": "The Way Back to God",
@@ -537,7 +573,7 @@
             "customSeries": "Church Anniversary",
             "content": {
                 "dateAdded": "2025-03-02T00:00:00Z",
-                "playStart": 0,
+                "playStart": 158,
                 "duration": 3944,
                 "videos": [
                     {
@@ -573,47 +609,11 @@
             "customSeries": "Church Anniversary",
             "content": {
                 "dateAdded": "2025-03-02T00:00:00Z",
-                "playStart": 0,
+                "playStart": 643,
                 "duration": 4708,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22375713/controller/link/action/podcast/type/video_ingredientsofabiblicaldynamicc/id/1438136.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22375302",
-            "title": "Becoming a Fake",
-            "description": "Evangelist David Corn, Becoming a Fake, 1 Samuel 15, Sanctuary Class, 3/2/2025",
-            "cast": [
-                "Evangelist David Corn"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sanctuary Class, 3/2/2025",
-            "longDescription": "Evangelist David Corn",
-            "releaseDate": "2025-03-02",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0ca3f0bc22da752cfd0bcb3a184ce8a1.png",
-            "tags": [
-                "Evangelist David Corn",
-                "Sanctuary Class",
-                "3/2/2025"
-            ],
-            "customSeries": "Church Anniversary",
-            "content": {
-                "dateAdded": "2025-03-02T00:00:00Z",
-                "playStart": 0,
-                "duration": 2727,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22375302/controller/link/action/podcast/type/video_becomingafake/id/1437719.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -645,7 +645,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-08T00:00:00Z",
-                "playStart": 0,
+                "playStart": 500,
                 "duration": 5969,
                 "videos": [
                     {
@@ -681,7 +681,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-08T00:00:00Z",
-                "playStart": 0,
+                "playStart": 720,
                 "duration": 4530,
                 "videos": [
                     {
@@ -717,7 +717,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-08T00:00:00Z",
-                "playStart": 0,
+                "playStart": 345,
                 "duration": 2988,
                 "videos": [
                     {
@@ -753,7 +753,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-06T00:00:00Z",
-                "playStart": 0,
+                "playStart": 22312697,
                 "duration": 7069,
                 "videos": [
                     {
@@ -789,7 +789,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-05T00:00:00Z",
-                "playStart": 0,
+                "playStart": 960,
                 "duration": 7392,
                 "videos": [
                     {
@@ -825,7 +825,7 @@
             "customSeries": "Missions Conference",
             "content": {
                 "dateAdded": "2024-09-04T00:00:00Z",
-                "playStart": 0,
+                "playStart": 660,
                 "duration": 7016,
                 "videos": [
                     {
@@ -861,7 +861,7 @@
             "customSeries": "Dr. Raymond Barber",
             "content": {
                 "dateAdded": "2024-08-11T00:00:00Z",
-                "playStart": 0,
+                "playStart": 2172,
                 "duration": 4381,
                 "videos": [
                     {
@@ -897,7 +897,7 @@
             "customSeries": "Dr. Raymond Barber",
             "content": {
                 "dateAdded": "2024-08-11T00:00:00Z",
-                "playStart": 0,
+                "playStart": 1720,
                 "duration": 4913,
                 "videos": [
                     {
@@ -933,7 +933,7 @@
             "customSeries": "Dr. Raymond Barber",
             "content": {
                 "dateAdded": "2024-03-31T00:00:00Z",
-                "playStart": 0,
+                "playStart": 2505,
                 "duration": 4971,
                 "videos": [
                     {
@@ -969,7 +969,7 @@
             "customSeries": "Dr. Raymond Barber",
             "content": {
                 "dateAdded": "2024-03-03T00:00:00Z",
-                "playStart": 0,
+                "playStart": 5607,
                 "duration": 8757,
                 "videos": [
                     {
@@ -1005,11 +1005,47 @@
             "customSeries": "Dr. Raymond Barber",
             "content": {
                 "dateAdded": "2023-12-24T00:00:00Z",
-                "playStart": 0,
+                "playStart": 3508,
                 "duration": 6429,
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22211336/controller/link/action/podcast/type/video_anunusualbirthandanunspeakable/id/1334461.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "21874379",
+            "title": "Suffer The Little Children To Come Unto Me",
+            "description": "Dr. Mike Patterson, Suffer The Little Children To Come Unto Me, Mark 10:13-16, Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "cast": [
+                "Dr. Mike Patterson"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "longDescription": "Dr. Mike Patterson",
+            "releaseDate": "2021\n \nKnowing God: https:-10-10",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/29ed0a7e1e099ec563d49d08272e6012.png",
+            "tags": [
+                "Dr. Mike Patterson",
+                "Sunday Evening",
+                "10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org"
+            ],
+            "customSeries": "Legacy",
+            "content": {
+                "dateAdded": "2021\n \nKnowing God: https:-10-10T00:00:00Z",
+                "playStart": 765,
+                "duration": 5380,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/21874379/controller/link/action/podcast/type/video_sufferthelittlechildrentocomeu/id/1122255.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }

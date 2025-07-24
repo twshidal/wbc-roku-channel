@@ -1,0 +1,156 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22426647",
+            "title": "A Man and Woman After God\u2019s Own Heart",
+            "description": "Bro. Earl Sides, A Man and Woman After God's Own Heart, Acts 13:16-23, Wednesday Evening, 7/23/2025",
+            "cast": [
+                "Bro. Earl Sides"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 7/23/2025",
+            "longDescription": "Bro. Earl Sides",
+            "releaseDate": "2025-07-23",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0dd32d6c523cfa790473fdee6fa5537e.png",
+            "tags": [
+                "Bro. Earl Sides",
+                "Wednesday Evening",
+                "7/23/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-07-23T00:00:00Z",
+                "playStart": 830,
+                "duration": 4220,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22426647/controller/link/action/podcast/type/video_amanandwomanaftergodsownheart/id/1470375.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22424251",
+            "title": "Captivated by Christ",
+            "description": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible, Philippians: Captivated by Christ, Philippians 1:1-6, Wednesday Evening, 7/16/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 7/16/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-16",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/7d315fcd87921509d6f845063ae0c3aa.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Wednesday Evening",
+                "7/16/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-07-16T00:00:00Z",
+                "playStart": 748,
+                "duration": 4510,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22424251/controller/link/action/podcast/type/video_captivatedbychrist/id/1468809.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22419805",
+            "title": "Stewarding Life's Seasons",
+            "description": "Pastor Tyler Gillit, Stewarding Life's Seasons, Ecclesiastes 3:1-8, Wednesday Evening, 7/2/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 7/2/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-02",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/4965a37f06b120641c98a3c8b58e5d00.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Wednesday Evening",
+                "7/2/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-07-02T00:00:00Z",
+                "playStart": 755,
+                "duration": 4795,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22419805/controller/link/action/podcast/type/video_stewardinglifesseasons/id/1466003.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22417500",
+            "title": "Our Confidence in Crisis",
+            "description": "Pastor Tyler Gillit, Our Confidence in Crisis, Philippians 1:19-26, Wednesday Evening, 6/25/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Wednesday Evening, 6/25/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-25",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f6b4d70469cfa9e4977f626873dbe5b9.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Wednesday Evening",
+                "6/25/2025"
+            ],
+            "customSeries": "Wednesday Evening",
+            "content": {
+                "dateAdded": "2025-06-25T00:00:00Z",
+                "playStart": 255,
+                "duration": 4542,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22417500/controller/link/action/podcast/type/video_ourconfidenceincrisis/id/1464579.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

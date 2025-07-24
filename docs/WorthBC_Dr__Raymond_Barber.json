@@ -1,0 +1,192 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22300730",
+            "title": "The Biblical Account of the Three Appearances of Christ #2",
+            "description": "Dr. Raymond Barber, The Biblical Account of the Three Appearances of Christ #2, Hebrews 9:24-28, Sunday Evening, 8/11/2024",
+            "cast": [
+                "Dr. Raymond Barber"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 8/11/2024",
+            "longDescription": "Dr. Raymond Barber",
+            "releaseDate": "2024-08-11",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/d86dd874202ab445d8957b4a04e2be5c.png",
+            "tags": [
+                "Dr. Raymond Barber",
+                "Sunday Evening",
+                "8/11/2024"
+            ],
+            "customSeries": "Dr. Raymond Barber",
+            "content": {
+                "dateAdded": "2024-08-11T00:00:00Z",
+                "playStart": 2172,
+                "duration": 4381,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22300730/controller/link/action/podcast/type/video_thebiblicalaccountofthethreeap/id/1392120.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22300298",
+            "title": "The Biblical Account of the Three Appearances of Christ #1",
+            "description": "Dr. Raymond Barber, The Biblical Account of the Three Appearances of Christ #1, Hebrews 9:24-28, Sunday Morning, 8/11/2024",
+            "cast": [
+                "Dr. Raymond Barber"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 8/11/2024",
+            "longDescription": "Dr. Raymond Barber",
+            "releaseDate": "2024-08-11",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/c98a2c00c0c984eea7fdac0262a89dad.png",
+            "tags": [
+                "Dr. Raymond Barber",
+                "Sunday Morning",
+                "8/11/2024"
+            ],
+            "customSeries": "Dr. Raymond Barber",
+            "content": {
+                "dateAdded": "2024-08-11T00:00:00Z",
+                "playStart": 1720,
+                "duration": 4913,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22300298/controller/link/action/podcast/type/video_thebiblicalaccountofthethreeap/id/1391806.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22248920",
+            "title": "The Big If of the Resurrection",
+            "description": "Dr. Raymond Barber, The Big If of the Resurrection, 1 Corinthians 15:12-22, Sunday Morning, 3/31/2024",
+            "cast": [
+                "Dr. Raymond Barber"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 3/31/2024",
+            "longDescription": "Dr. Raymond Barber",
+            "releaseDate": "2024-03-31",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/a75a8b21bb3cf38309ef130ff5b2809e.png",
+            "tags": [
+                "Dr. Raymond Barber",
+                "Sunday Morning",
+                "3/31/2024"
+            ],
+            "customSeries": "Dr. Raymond Barber",
+            "content": {
+                "dateAdded": "2024-03-31T00:00:00Z",
+                "playStart": 2505,
+                "duration": 4971,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22248920/controller/link/action/podcast/type/video_thebigifoftheresurrection/id/1358600.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22237507",
+            "title": "The Gospel of Blood Redemption",
+            "description": "Dr. Raymond W. Barber, The Gospel of Blood Redemption, 1 Corinthians 15:1-4, Sunday Morning, 3/3/2024",
+            "cast": [
+                "Dr. Raymond W. Barber"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 3/3/2024",
+            "longDescription": "Dr. Raymond W. Barber",
+            "releaseDate": "2024-03-03",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/bfb964276a8e2dfe04c665645ba944ec.png",
+            "tags": [
+                "Dr. Raymond W. Barber",
+                "Sunday Morning",
+                "3/3/2024"
+            ],
+            "customSeries": "Dr. Raymond Barber",
+            "content": {
+                "dateAdded": "2024-03-03T00:00:00Z",
+                "playStart": 5607,
+                "duration": 8757,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22237507/controller/link/action/podcast/type/video_thegospelofbloodredemption/id/1350793.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22211336",
+            "title": "An Unusual Birth and an Unspeakable Gift",
+            "description": "Dr. Raymond Barber, An Unusual Birth and an Unspeakable Gift, Isaiah 9:6 , Sunday Morning, 12/24/2023",
+            "cast": [
+                "Dr. Raymond Barber"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 12/24/2023",
+            "longDescription": "Dr. Raymond Barber",
+            "releaseDate": "2023-12-24",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/58fe75cfeb1b78dc62cf4324d70c164e.png",
+            "tags": [
+                "Dr. Raymond Barber",
+                "Sunday Morning",
+                "12/24/2023"
+            ],
+            "customSeries": "Dr. Raymond Barber",
+            "content": {
+                "dateAdded": "2023-12-24T00:00:00Z",
+                "playStart": 3508,
+                "duration": 6429,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22211336/controller/link/action/podcast/type/video_anunusualbirthandanunspeakable/id/1334461.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

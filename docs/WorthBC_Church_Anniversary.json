@@ -1,0 +1,84 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22375967",
+            "title": "Raising Memorials",
+            "description": "Pastor Tyler Gillit, Raising Memorials, Joshua 4:4-7, Sunday Afternoon, 3/2/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Afternoon, 3/2/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-03-02",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/5ff47512335ca3a328cca42d284d2664.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Afternoon",
+                "3/2/2025"
+            ],
+            "customSeries": "Church Anniversary",
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "playStart": 158,
+                "duration": 3944,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375967/controller/link/action/podcast/type/video_raisingmemorials/id/1438316.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22375713",
+            "title": "Ingredients of a Biblical Dynamic Church",
+            "description": "Dr. W. W. Weaver, Ingredients of a Biblical Dynamic Church, Acts 2:46-47, Sunday Morning, 3/2/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 3/2/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-03-02",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/f4e206d826766639e47b308e79274f3a.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sunday Morning",
+                "3/2/2025"
+            ],
+            "customSeries": "Church Anniversary",
+            "content": {
+                "dateAdded": "2025-03-02T00:00:00Z",
+                "playStart": 643,
+                "duration": 4708,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22375713/controller/link/action/podcast/type/video_ingredientsofabiblicaldynamicc/id/1438136.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

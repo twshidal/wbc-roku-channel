@@ -1,6 +1,7 @@
 import feedparser
 import json
 import re
+import os
 from datetime import datetime, timezone
 
 # Constant variables
@@ -12,7 +13,8 @@ GENRES = 'Religion, Christianity'
 RATING = 'NR'
 QUALITY = 'HD'
 VIDEO_TYPE = "mp4"
-JSON_FILE = "docs/WorthBC.json"
+OUTPUT_FOLDER = "docs"
+JSON_FILE = os.path.join(OUTPUT_FOLDER, "WorthBC.json")
 DEFAULT_POSTER_URL = "https://media.worthbc.org/images/media/roku/channel-poster_hd_290x218px.png"
 
 def parse_duration(duration_string):
@@ -47,6 +49,17 @@ def extract_keyword_values(entry):
 
     return custom_series, play_start
 
+def sanitize_filename(name):
+    return re.sub(r'[^\w\-]', '_', name)
+
+def build_output_json(header, movies):
+    return {
+        "providerName": DIRECTOR,
+        "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "language": "en",
+        "channel_info": header,
+        "movies": movies
+    }
 
 def main():
     feed = feedparser.parse(RSS_URL)
@@ -60,6 +73,7 @@ def main():
     }
 
     json_data = []
+    series_dict = {}
 
     for entry in feed.entries:
         if (entry.title != 'Live broadcast for Worth Baptist Church' and
@@ -93,16 +107,13 @@ def main():
                 release_date = "1970-01-01"
 
             date_added = f"{release_date}T00:00:00Z"
-
             duration_str = entry.get('itunes_duration', '0')
             duration = parse_duration(duration_str)
-
             poster_url = (entry.get('image', {}).get('href') or DEFAULT_POSTER_URL)
 
-            # Extract custom value
+            # Extract custom values
             custom_series, playStart_str = extract_keyword_values(entry)
-            playStart_str = str(playStart_str)
-            playStart = parse_duration(playStart_str)
+            playStart = parse_duration(str(playStart_str)) if playStart_str else 0
 
             feed_item = {
                 'id': str(episode),
@@ -134,18 +145,26 @@ def main():
 
             json_data.append(feed_item)
 
+            # Group by series if available
+            if custom_series:
+                if custom_series not in series_dict:
+                    series_dict[custom_series] = []
+                series_dict[custom_series].append(feed_item)
+
+    # Sort main data
     json_data.sort(key=lambda x: x['releaseDate'], reverse=True)
 
-    output_data = {
-        "providerName": DIRECTOR,
-        "lastUpdated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "language": "en",
-        "channel_info": json_header,
-        "movies": json_data
-    }
+    # Save main JSON
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    with open(JSON_FILE, 'w') as f:
+        json.dump(build_output_json(json_header, json_data), f, indent=4)
 
-    with open(JSON_FILE, 'w') as local_json_file:
-        json.dump(output_data, local_json_file, indent=4)
+    # Save individual series JSONs
+    for series, items in series_dict.items():
+        safe_name = sanitize_filename(series)
+        file_path = os.path.join(OUTPUT_FOLDER, f"WorthBC_{safe_name}.json")
+        with open(file_path, 'w') as f:
+            json.dump(build_output_json(json_header, items), f, indent=4)
 
 if __name__ == "__main__":
     main()

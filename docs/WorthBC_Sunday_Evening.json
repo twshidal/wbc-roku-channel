@@ -1,0 +1,156 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22425671",
+            "title": "The Way Back to God",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, The Way Back to God, James 4:7-10, Sunday Evening, 7/20/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 7/20/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e3598fcbcb22cf935734813263de341c.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "7/20/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 620,
+                "duration": 4918,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425671/controller/link/action/podcast/type/video_thewaybacktogod/id/1469759.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22423606",
+            "title": "I Am Not Ashamed",
+            "description": "Bro. Tony Sengmany, I Am Not Ashamed, Romans 1:16, Sunday Evening, 7/13/2025",
+            "cast": [
+                "Bro. Tony Sengmany"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 7/13/2025",
+            "longDescription": "Bro. Tony Sengmany",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/408781eb27cddef2607196b2d1650a55.png",
+            "tags": [
+                "Bro. Tony Sengmany",
+                "Sunday Evening",
+                "7/13/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "playStart": 446,
+                "duration": 4280,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22423606/controller/link/action/podcast/type/video_iamnotashamed/id/1468526.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22419023",
+            "title": "What Christians Can Do For America",
+            "description": "Pastor Tyler Gillit, What Christians Can Do For America, Proverbs 14:34, Sunday Evening, 6/29/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 6/29/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-29",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/6e80d1718ed17c5e573de91ea47ca13f.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "6/29/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-06-29T00:00:00Z",
+                "playStart": 933,
+                "duration": 3348,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22419023/controller/link/action/podcast/type/video_whatchristianscandoforamerica/id/1465688.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22416633",
+            "title": "Word Problems",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Word Problems, James 3:1-12, Sunday Evening, 6/22/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 6/22/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-06-22",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e8db5f5c0cc36a640f75e3eed7288311.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "6/22/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-06-22T00:00:00Z",
+                "playStart": 485,
+                "duration": 3760,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22416633/controller/link/action/podcast/type/video_wordproblems/id/1464209.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "providerName": "Worth Baptist Church",
+    "lastUpdated": "2025-07-24T15:22:57Z",
+    "language": "en",
+    "channel_info": {
+        "title": "WBC-TV",
+        "link": "https://media.worthbc.org",
+        "description": "Worth Baptist Church playlist used for smart TV applications."
+    },
+    "movies": [
+        {
+            "id": "22425109",
+            "title": "Jacob's Dream",
+            "description": "Dr. W. W. Weaver, Series: Genesis, Jacob's Dream, Genesis 28:10-22, Sanctuary Class, 7/20/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/20/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-20",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/52f661c55b1839b9788365fe9503e710.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/20/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-07-20T00:00:00Z",
+                "playStart": 242,
+                "duration": 3123,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22425109/controller/link/action/podcast/type/video_acobsdream/id/1469349.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22422790",
+            "title": "Isaac, The Promised Son",
+            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Isaac the Promised Son, Genesis 22, Sanctuary Class, 7/13/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/13/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-13",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/c2daddf268ed43d85a2d7ac1e1ddde2d.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/13/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-07-13T00:00:00Z",
+                "playStart": 290,
+                "duration": 3031,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22422790/controller/link/action/podcast/type/video_isaacthepromisedson/id/1467846.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22420567",
+            "title": "Sodom and Gomorrah",
+            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Sodom and Gomorrah, Genesis 19:1-30, Sanctuary Class, 7/6/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/6/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-06",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/23180a6b9815b1063d801028340df7d0.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/6/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-07-06T00:00:00Z",
+                "playStart": 210,
+                "duration": 2970,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22420567/controller/link/action/podcast/type/video_sodomandgomorrah/id/1466407.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        }
+    ]
+}
