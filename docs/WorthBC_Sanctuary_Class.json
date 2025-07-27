@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-24T15:22:57Z",
+    "lastUpdated": "2025-07-27T18:39:53Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22427386",
+            "title": "Joseph the Dreamer",
+            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Joseph the Dreamer, Genesis 37, Sanctuary Class, 7/27/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 7/27/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-07-27",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/df7b4f8012d74bf0f3f3e38c260a81c0.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "7/27/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-07-27T00:00:00Z",
+                "playStart": 380,
+                "duration": 3039,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22427386/controller/link/action/podcast/type/video_osephthedreamer/id/1470827.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22425109",
             "title": "Jacob's Dream",

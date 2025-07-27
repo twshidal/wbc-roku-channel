@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-24T15:22:57Z",
+    "lastUpdated": "2025-07-27T18:39:53Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22427785",
+            "title": "Facing Your Future",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Facing Your Future, James 4:13-17, Sunday Morning, 7/27/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 7/27/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-27",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2a19b1f0872fccb9e94db701e6ee5689.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "7/27/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-07-27T00:00:00Z",
+                "playStart": 705,
+                "duration": 4916,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22427785/controller/link/action/podcast/type/video_facingyourfuture/id/1471166.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22425616",
             "title": "Counseling Mr. Backslider",
