@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-27T18:47:27Z",
+    "lastUpdated": "2025-07-28T01:26:52Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22428228",
+            "title": "Behold Your God",
+            "description": "Pastor Tyler Gillit, Behold Your God, Isaiah 40, Sunday Evening, 7/27/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 7/27/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-07-27",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/34a4fb0b8143261d28463a9b0d49d79b.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "7/27/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-07-27T00:00:00Z",
+                "playStart": 835,
+                "duration": 5150,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22428228/controller/link/action/podcast/type/video_beholdyourgod/id/1471546.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22427785",
             "title": "Facing Your Future",
@@ -254,42 +290,6 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22424251/controller/link/action/podcast/type/video_captivatedbychrist/id/1468809.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22423606",
-            "title": "I Am Not Ashamed",
-            "description": "Bro. Tony Sengmany, I Am Not Ashamed, Romans 1:16, Sunday Evening, 7/13/2025",
-            "cast": [
-                "Bro. Tony Sengmany"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 7/13/2025",
-            "longDescription": "Bro. Tony Sengmany",
-            "releaseDate": "2025-07-13",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/408781eb27cddef2607196b2d1650a55.png",
-            "tags": [
-                "Bro. Tony Sengmany",
-                "Sunday Evening",
-                "7/13/2025"
-            ],
-            "customSeries": "Sunday Evening",
-            "content": {
-                "dateAdded": "2025-07-13T00:00:00Z",
-                "playStart": 446,
-                "duration": 4280,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22423606/controller/link/action/podcast/type/video_iamnotashamed/id/1468526.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
@@ -1055,13 +1055,13 @@
         {
             "id": "21874379",
             "title": "Suffer The Little Children To Come Unto Me",
-            "description": "Dr. Mike Patterson, Suffer The Little Children To Come Unto Me, Mark 10:13-16, Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "description": "Dr. Mike Patterson, Suffer The Little Children To Come Unto Me, Mark 10:13-16, Sunday Evening, 10/10/2021\n \nKnowing God: https://worthbc.org/christian \nConnect with us: https://worthbc.org/connect \nMedia Archives @ Worth: https://media.worthbc.org \nBridge to Recovery Program: https://b2rfw.org ",
             "cast": [
                 "Dr. Mike Patterson"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org",
+            "shortDescription": "Sunday Evening, 10/10/2021\n \nKnowing God: https://worthbc.org/christian \nConnect with us: https://worthbc.org/connect \nMedia Archives @ Worth: https://media.worthbc.org \nBridge to Recovery Program: https://b2rfw.org ",
             "longDescription": "Dr. Mike Patterson",
             "releaseDate": "2021\n \nKnowing God: https:-10-10",
             "genres": [
@@ -1072,7 +1072,7 @@
             "tags": [
                 "Dr. Mike Patterson",
                 "Sunday Evening",
-                "10/10/2021\n \nKnowing God: https://www.worthbc.org/discover/our-purpose/#god\nConnect with us: https://www.worthbc.org/connect\nHave you made a decision?: https://www.worthbc.org/christian \nMedia Archives @ Worth: https://media.worthbc.org\nServe and share the Gospel: http://worthcares.org\nDFW Addictions Recovery Program: https://dfwaddictions.org"
+                "10/10/2021\n \nKnowing God: https://worthbc.org/christian \nConnect with us: https://worthbc.org/connect \nMedia Archives @ Worth: https://media.worthbc.org \nBridge to Recovery Program: https://b2rfw.org "
             ],
             "customSeries": "Legacy",
             "content": {
