@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-28T01:26:52Z",
+    "lastUpdated": "2025-08-11T19:28:27Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22432308",
+            "title": "Warnings to the Wealthy",
+            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Warnings to the Wealthy, James 5:1-6, Sunday Morning, 8/10/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Morning, 8/10/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-08-10",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/86a2fa0fc23bfef37cc268fa1db7ba1d.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Morning",
+                "8/10/2025"
+            ],
+            "customSeries": "Sunday Morning",
+            "content": {
+                "dateAdded": "2025-08-10T00:00:00Z",
+                "playStart": 0,
+                "duration": 3043,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22432308/controller/link/action/podcast/type/video_warningstothewealthy/id/1474033.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22427785",
             "title": "Facing Your Future",
@@ -110,42 +146,6 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22423145/controller/link/action/podcast/type/video_wiseorotherwisepart2/id/1468167.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22420925",
-            "title": "Wise or Otherwise, Part 1",
-            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Wise or Otherwise - Part 1, James 3:13-18, Sunday Morning, 7/6/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Morning, 7/6/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-07-06",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/3a5280de2c2eef681b5c80c664a13121.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Morning",
-                "7/6/2025"
-            ],
-            "customSeries": "Sunday Morning",
-            "content": {
-                "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 503,
-                "duration": 4328,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22420925/controller/link/action/podcast/type/video_wiseorotherwisepart1/id/1466718.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }

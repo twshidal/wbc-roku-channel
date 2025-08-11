@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-28T01:26:52Z",
+    "lastUpdated": "2025-08-11T19:28:27Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -9,35 +9,35 @@
     },
     "movies": [
         {
-            "id": "22426647",
-            "title": "A Man and Woman After God\u2019s Own Heart",
-            "description": "Bro. Earl Sides, A Man and Woman After God's Own Heart, Acts 13:16-23, Wednesday Evening, 7/23/2025",
+            "id": "22431181",
+            "title": "Descovering God in Colossians",
+            "description": "Pastor Tyler Gillit, Series: A Guided Tour of the Bible, Colossians, Colossians 1:1-4:18, Wednesday Evening, 8/6/2025",
             "cast": [
-                "Bro. Earl Sides"
+                "Pastor Tyler Gillit"
             ],
             "rating": "NR",
             "director": "Worth Baptist Church",
-            "shortDescription": "Wednesday Evening, 7/23/2025",
-            "longDescription": "Bro. Earl Sides",
-            "releaseDate": "2025-07-23",
+            "shortDescription": "Wednesday Evening, 8/6/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-08-06",
             "genres": [
                 "Religion",
                 "Christianity"
             ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/0dd32d6c523cfa790473fdee6fa5537e.png",
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/28ba0dcba5fe462a4c2beb88f37f1aa0.png",
             "tags": [
-                "Bro. Earl Sides",
+                "Pastor Tyler Gillit",
                 "Wednesday Evening",
-                "7/23/2025"
+                "8/6/2025"
             ],
             "customSeries": "Wednesday Evening",
             "content": {
-                "dateAdded": "2025-07-23T00:00:00Z",
-                "playStart": 830,
-                "duration": 4220,
+                "dateAdded": "2025-08-06T00:00:00Z",
+                "playStart": 875,
+                "duration": 4917,
                 "videos": [
                     {
-                        "url": "https://worthbc.sermon.net/22426647/controller/link/action/podcast/type/video_amanandwomanaftergodsownheart/id/1470375.mp4",
+                        "url": "https://worthbc.sermon.net/22431181/controller/link/action/podcast/type/video_descoveringgodincolossians/id/1473283.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }

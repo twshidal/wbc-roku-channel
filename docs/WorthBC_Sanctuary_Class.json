@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-28T01:26:52Z",
+    "lastUpdated": "2025-08-11T19:28:27Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,42 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22432775",
+            "title": "Joseph's Exalted Life",
+            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Joseph's Exalted Life, Genesis 41, Sanctuary Class, 8/10/2025",
+            "cast": [
+                "Dr. W. W. Weaver"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sanctuary Class, 8/10/2025",
+            "longDescription": "Dr. W. W. Weaver",
+            "releaseDate": "2025-08-10",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/4b4ef81a60cc859715017c867cc421a5.png",
+            "tags": [
+                "Dr. W. W. Weaver",
+                "Sanctuary Class",
+                "8/10/2025"
+            ],
+            "customSeries": "Sanctuary Class",
+            "content": {
+                "dateAdded": "2025-08-10T00:00:00Z",
+                "playStart": 345,
+                "duration": 3120,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22432775/controller/link/action/podcast/type/video_osephsexaltedlife/id/1474420.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22427386",
             "title": "Joseph the Dreamer",
@@ -110,42 +146,6 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22422790/controller/link/action/podcast/type/video_isaacthepromisedson/id/1467846.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22420567",
-            "title": "Sodom and Gomorrah",
-            "description": "Dr. W. W. Weaver, Series: Studies in Genesis, Sodom and Gomorrah, Genesis 19:1-30, Sanctuary Class, 7/6/2025",
-            "cast": [
-                "Dr. W. W. Weaver"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sanctuary Class, 7/6/2025",
-            "longDescription": "Dr. W. W. Weaver",
-            "releaseDate": "2025-07-06",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/23180a6b9815b1063d801028340df7d0.png",
-            "tags": [
-                "Dr. W. W. Weaver",
-                "Sanctuary Class",
-                "7/6/2025"
-            ],
-            "customSeries": "Sanctuary Class",
-            "content": {
-                "dateAdded": "2025-07-06T00:00:00Z",
-                "playStart": 210,
-                "duration": 2970,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22420567/controller/link/action/podcast/type/video_sodomandgomorrah/id/1466407.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }

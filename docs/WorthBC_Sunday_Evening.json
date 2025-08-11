@@ -1,6 +1,6 @@
 {
     "providerName": "Worth Baptist Church",
-    "lastUpdated": "2025-07-28T01:26:52Z",
+    "lastUpdated": "2025-08-11T19:28:27Z",
     "language": "en",
     "channel_info": {
         "title": "WBC-TV",
@@ -8,6 +8,78 @@
         "description": "Worth Baptist Church playlist used for smart TV applications."
     },
     "movies": [
+        {
+            "id": "22432753",
+            "title": "Go",
+            "description": "Pastor Tyler Gillit, Go, Matthew 28:19, Sunday Evening, 8/10/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 8/10/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-08-10",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/51e62e7ac42e432b8360961e25d9e9a4.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "8/10/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-08-10T00:00:00Z",
+                "playStart": 644,
+                "duration": 5187,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22432753/controller/link/action/podcast/type/video_go/id/1474409.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22430477",
+            "title": "God's Plan For Reaching The World",
+            "description": "Pastor Tyler Gillit, God's Plan For Reaching The World, Acts 8:29-35, Sunday Evening, 8/3/2025",
+            "cast": [
+                "Pastor Tyler Gillit"
+            ],
+            "rating": "NR",
+            "director": "Worth Baptist Church",
+            "shortDescription": "Sunday Evening, 8/3/2025",
+            "longDescription": "Pastor Tyler Gillit",
+            "releaseDate": "2025-08-03",
+            "genres": [
+                "Religion",
+                "Christianity"
+            ],
+            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/2222c5b50ee5b274a5cf657e464219a7.png",
+            "tags": [
+                "Pastor Tyler Gillit",
+                "Sunday Evening",
+                "8/3/2025"
+            ],
+            "customSeries": "Sunday Evening",
+            "content": {
+                "dateAdded": "2025-08-03T00:00:00Z",
+                "playStart": 745,
+                "duration": 5319,
+                "videos": [
+                    {
+                        "url": "https://worthbc.sermon.net/22430477/controller/link/action/podcast/type/video_godsplanforreachingtheworld/id/1472958.mp4",
+                        "quality": "HD",
+                        "videoType": "mp4"
+                    }
+                ]
+            }
+        },
         {
             "id": "22428228",
             "title": "Behold Your God",
@@ -74,78 +146,6 @@
                 "videos": [
                     {
                         "url": "https://worthbc.sermon.net/22425671/controller/link/action/podcast/type/video_thewaybacktogod/id/1469759.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22419023",
-            "title": "What Christians Can Do For America",
-            "description": "Pastor Tyler Gillit, What Christians Can Do For America, Proverbs 14:34, Sunday Evening, 6/29/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 6/29/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-29",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/6e80d1718ed17c5e573de91ea47ca13f.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Evening",
-                "6/29/2025"
-            ],
-            "customSeries": "Sunday Evening",
-            "content": {
-                "dateAdded": "2025-06-29T00:00:00Z",
-                "playStart": 933,
-                "duration": 3348,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22419023/controller/link/action/podcast/type/video_whatchristianscandoforamerica/id/1465688.mp4",
-                        "quality": "HD",
-                        "videoType": "mp4"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "22416633",
-            "title": "Word Problems",
-            "description": "Pastor Tyler Gillit, Series: James: Genuine Christianity, Word Problems, James 3:1-12, Sunday Evening, 6/22/2025",
-            "cast": [
-                "Pastor Tyler Gillit"
-            ],
-            "rating": "NR",
-            "director": "Worth Baptist Church",
-            "shortDescription": "Sunday Evening, 6/22/2025",
-            "longDescription": "Pastor Tyler Gillit",
-            "releaseDate": "2025-06-22",
-            "genres": [
-                "Religion",
-                "Christianity"
-            ],
-            "thumbnail": "https://storage.sermon.net/33adebe5139f79c3f652475c2cd85647/0-0-0/content/media/23692/artwork/e8db5f5c0cc36a640f75e3eed7288311.png",
-            "tags": [
-                "Pastor Tyler Gillit",
-                "Sunday Evening",
-                "6/22/2025"
-            ],
-            "customSeries": "Sunday Evening",
-            "content": {
-                "dateAdded": "2025-06-22T00:00:00Z",
-                "playStart": 485,
-                "duration": 3760,
-                "videos": [
-                    {
-                        "url": "https://worthbc.sermon.net/22416633/controller/link/action/podcast/type/video_wordproblems/id/1464209.mp4",
                         "quality": "HD",
                         "videoType": "mp4"
                     }
